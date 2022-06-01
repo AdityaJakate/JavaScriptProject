@@ -1,0 +1,96 @@
+body {
+  align-items: center;
+}
+.Heading {
+  text-align: center;
+  text-decoration: underline;
+  font-size: xx-large;
+  color: darkslateblue;
+}
+#Shootdisplay{
+  color: brown;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 3%;
+
+}
+
+
+.player1 {
+  margin-top: 3%;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-bottom: 1%;;
+  margin-top: 2%;
+}
+.player2 {
+  text-align: end;
+  flex-direction: row-reverse;
+}
+#startGame {
+
+  display: inline-flex;
+  align-items: center;
+  margin-top: 5%;
+  margin-left: 45%;
+  color: green;
+  background-color: blanchedalmond;
+  
+}
+#startGame:hover{
+  background-color: greenyellow;
+  cursor: pointer;
+}
+#resetGame {
+  color: red;
+  display: inline-flex;
+  margin-top: 5%;
+  margin-right: 45%;
+  background-color: blanchedalmond;
+}
+#resetGame:hover{
+  background-color:firebrick;
+  cursor: pointer;
+}
+.player1 {
+  text-align: center;
+  margin-top: 100px;
+
+}
+.player2 {
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 05px;
+
+}
+.P1{
+  color:darkslateblue;
+}
+.P2{
+  color: blue;
+}
+#result1 {
+  margin-top: 5%;
+  text-align: center;
+  font-size: large;
+  
+  
+}
+#result {
+  
+  text-align: center;
+  font-size: large;
+  
+  
+}
+
+#theEnd {
+  text-align: center;
+  background-color: #d9edf7;
+  margin-top: px;
+  font-size:xx-large;
+  color: darkred;
+font-family: sans-serif;
+}
+
+
